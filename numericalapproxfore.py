@@ -1,5 +1,4 @@
 import math 
-import numpy as np
 
 def expMethod1() :  # Using the Calculus limit definition to approximate e --> comes from Compound interest
     getAcc = input("How accurate do you want your Euler's Number to be? Very accurate, not         accurate or Engineer's Approximation? ")
