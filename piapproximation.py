@@ -30,4 +30,4 @@ print(f"Pi is: {np.pi}")
 
 plt.plot(circleX,circleY,'b.')
 plt.plot(squareX,squareY,'r.')
-plt.show()                                   n -> inf, value approaches pi.
+plt.show()                                  # n -> inf, value approaches pi.
